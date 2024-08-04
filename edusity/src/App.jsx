@@ -1,3 +1,4 @@
+import About from "./components/about/About"
 import Hero from "./components/hero/hero"
 import Navbar from "./components/navbar/Navbar"
 import Programs from "./components/programs/Programs"
@@ -12,6 +13,7 @@ const App = () => {
         <Title subTitle='Our Program' title='What We Offer' />
         <Programs/>
       </div>
+      <About/>
     </div>
   )
 }
