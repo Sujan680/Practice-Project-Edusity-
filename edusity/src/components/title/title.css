@@ -1,0 +1,23 @@
+
+
+.title {
+    text-align: center;
+    color: #212EA0;
+    font-size: 16px;
+    font-weight: 700;
+    text-transform: uppercase;
+    margin: 70px 0 30px;
+}
+
+.title p{
+    font-size: 20px;
+    letter-spacing: 2px;
+}
+
+.title h2{
+    font-size: 32px;
+    color: #000F38;
+    margin-top: 5px;
+    letter-spacing: 2px;
+    text-transform: capitalize;
+}

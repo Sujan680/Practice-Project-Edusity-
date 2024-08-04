@@ -35,9 +35,17 @@ a{
   align-items: center;
   justify-content: center;
   cursor: pointer;
+  transition: all 0.5s ease-in-out;
 }
 
 .btn img{
   width: 20px;
   margin-left: 10px;
+}
+
+
+.btn:hover{
+  background:  linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(11,88,117,1) 52%, rgba(0,212,255,1) 100%);;
+  color: #fff;
+  transform: rotate(360deg);
 }
