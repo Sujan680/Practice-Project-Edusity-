@@ -1,7 +1,8 @@
 
 
 .programs {
-    margin: 80px auto;
+    margin: 100px auto;
+    /* padding: 0 80px; */
     width: 90%;
     display: flex;
     align-items: center;
